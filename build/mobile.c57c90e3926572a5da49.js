@@ -1,0 +1,1 @@
+webpackJsonp([1],{133:function(n,e,c){"use strict";(function(n){c(2),c(3),n(document).ready(function(){var e=document.createElement("div");e.innerHTML="<h1>这个是第二个页面</h1>",n("body").append(e),n("h1").greenify()})}).call(e,c(1))}},[133]);
